@@ -1,6 +1,6 @@
-# Portfolio Website - Niraj Aghera
+# Portfolio Website - Tusharsnaotki
 
-This portfolio website showcases the work, education, projects, and contact information of Niraj Aghera, a Computer Engineering student and web developer.
+This portfolio website showcases the work, education, projects, and contact information of Tushar santoki, a Computer Engineering student and web developer.
 
 ## Table of Contents
 
@@ -12,19 +12,19 @@ This portfolio website showcases the work, education, projects, and contact info
 
 ## About
 
-The About section provides an overview of Niraj Aghera's background, interests, and skills. It covers his passion for web development, programming, competitive coding, and more.
+The About section provides an overview of Tushar santoki's background, interests, and skills. It covers his passion for web development, programming, competitive coding, and more.
 
 ## Education
 
-This section details Niraj's educational journey, including his secondary and higher secondary education, and his ongoing pursuit of a B.Tech in Computer Engineering from Dharmsinh Desai University.
+This section details Tushar santoki's educational journey, including his secondary and higher secondary education, and his ongoing pursuit of a B.Tech in Computer Engineering from Dharmsinh Desai University.
 
 ## Certificates
 
-The Certificates section displays certifications achieved by Niraj from various online platforms like Coursera and HackerRank. Each certificate is accompanied by a brief description and a link to verify the certification.
+The Certificates section displays certifications achieved by Tushar santoki from various online platforms like Coursera and HackerRank. Each certificate is accompanied by a brief description and a link to verify the certification.
 
 ## Projects
 
-The Projects section showcases some of Niraj's notable projects. Each project is presented with an image and a link to view the project live.
+The Projects section showcases some of Tushar santoki's notable projects. Each project is presented with an image and a link to view the project live.
 
 ## Contact
 
