@@ -1,4 +1,4 @@
-# Portfolio Website - Tusharsnaotki
+# Portfolio Website - Tusharsantoki
 
 This portfolio website showcases the work, education, projects, and contact information of Tushar santoki, a Computer Engineering student and web developer.
 
